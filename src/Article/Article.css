@@ -1,0 +1,19 @@
+.ant-modal-body {
+    height: 30rem !important;
+}
+.textarea.ant-input{
+    margin-top: 38px !important;
+}
+.ant-card{
+    margin-bottom: 20px;
+}
+.form-container{
+    border: 1px solid;
+    
+    width: 300px;
+    float: right;
+    height: 100%;
+    margin: 5px;
+
+
+}
